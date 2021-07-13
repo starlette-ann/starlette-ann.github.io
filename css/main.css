@@ -9,6 +9,7 @@ body {
 	color: #000;
 	height: 0;
 	background-size: 100% 300px;
+	background-size: cover;
 	margin-left: 0;
 	margin-right: 0;
 } 
