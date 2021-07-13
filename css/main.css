@@ -4,39 +4,45 @@ body {
 }
 
 .header-container-wrapper {
-	background-color: #F4F4F4;
-}    
+	background-color: #D1C9A2;
+}   
+
 nav ul, footer ul {
     font-family:'forum';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
-    color: #999;
+    color: #D1C9A2;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 3em;
     font-family:'forum';
 }
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
+
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #D1C9A2;
     font-size: .8em;
-    background: grey;
-   
+    background: #D1C9A2;  
 }
 
 ul.posts { 
@@ -47,3 +53,5 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+		
