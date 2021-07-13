@@ -1,13 +1,24 @@
 
 
 .header {
-  background-color: #F1F1F1;
+  background-color: #D1C9A2;
   padding: 20px;
   text-align: left;	
 } 
 
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #D1C9A2;
+  padding: 10px;
+}
+
+h1 {
+   color: #000;
+}
 
 body {
     margin: auto;
     width: 100%;	
+  color: #000;
 }
