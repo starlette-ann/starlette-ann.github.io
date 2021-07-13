@@ -1,17 +1,13 @@
+
+
+.header {
+  background-color: #D1C9A2;
+  padding: 20px;
+  text-align: center;	
+} 
+
+
 body {
     margin: auto;
     width: 100%;	
 }
-
-.header {
-	text-align: left;
-	background: #D1C9A2;
-	color: #D1C9A2;
-	height: 0;
-	background-size: 100%;
-	width: 100%;
-	margin-left: auto;
-	margin-right: auto;
-} 
-
-
