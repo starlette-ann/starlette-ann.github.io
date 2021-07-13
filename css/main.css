@@ -1,9 +1,9 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 70%;	
 }
 
-.header-container-wrapper {
+.header-container {
 	background-color: #D1C9A2;
 }   
 
@@ -31,6 +31,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'forum';
+	background-color: #D1C9A2;
 }
 
 p {
