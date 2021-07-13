@@ -13,11 +13,20 @@ body {
 	padding: 0 0 40%;
 	border: 1px solid;
 	background-size: 100%;
-	background-repeat: no-repeat;
 	background-size: cover;
 	margin-left: auto;
 	margin-right: auto;
-}   
+} 
+.fixed-header {
+        width: 100%;
+        position: fixed;        
+        background: #D1C9A2;
+        padding: 10px 0;
+        color: #000000;
+    }
+    .fixed-header{
+        top: 0;
+    }
 
 nav ul, footer ul {
     font-family:'forum';
