@@ -2,6 +2,10 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
+.header-container-wrapper {
+	background-color: #F4F4F4;
+}    
 nav ul, footer ul {
     font-family:'forum';
     padding: 0px;
