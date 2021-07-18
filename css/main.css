@@ -14,7 +14,7 @@
 
 .multiplebackground {
   height: 50px;
-  background: linear-gradient(to right, white, white 33%, blue 33%, blue 66%, green 66%);
+  background: linear-gradient(to right, white, white 33%,  #d3d3d3  33%,  #d3d3d3  66%, #a9a9a9 66%);
 }
 
 
