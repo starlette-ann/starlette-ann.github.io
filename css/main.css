@@ -13,10 +13,8 @@
 }
 
 .multiplebackground {
-  min-height: 100vh;
-  background: linear-gradient(to bottom, #FFFFFF 0%, #FFFFFF 33%, #d3d3d3 33%, #d3d3d3 66%, #a9a9a9 66%, #a9a9a9 100%);
-  background-size: 100%;
-  background-repeat: no-repeat;
+  height: 50px;
+  background: linear-gradient(to right, white, white 33%, blue 33%, blue 66%, green 66%);
 }
 
 
