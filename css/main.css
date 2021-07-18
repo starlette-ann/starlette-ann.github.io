@@ -7,12 +7,18 @@
   font-size: 8px;
 } 
 
- 
- {
-  background-color: #F4F4F4;
-  background-position: right bottom, left top;
-  padding: 20px;
+ body, html {
+  margin: 0;
+  padding: 0;
 }
+
+.multiplebackground {
+  min-height: 100vh;
+  background: linear-gradient(to bottom, red 0%, red 33%, green 33%, green 66%, blue 66%, blue 100%);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
 
 .center {
   margin: auto;
