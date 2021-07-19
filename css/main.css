@@ -12,10 +12,24 @@
   padding: 0;
 }
 
-.multiplebackground {
-  height: 50px;
-  background: linear-gradient(to right, white, white 33%,  #d3d3d3  33%,  #d3d3d3  66%, #a9a9a9 66%);
+
+
+body {
+  margin: 0;
+  background: white;
+  height: 200vh;
+  position: relative;
+  text-align:center;
+  color:#fff;
 }
+
+
+
+
+
+
+
+
 
 
 .center {
